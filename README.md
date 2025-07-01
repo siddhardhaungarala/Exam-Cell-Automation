@@ -8,6 +8,10 @@ The system facilitates the examination by assigning each student to their respec
 
 The system has a feature that generates a report automatically during exams at the end of the session or in between the session.
 
+# Documentation
+
+Here you can find the Documentation for the above project https://www.scribd.com/document/670994907/AUTOMATION-EXAMCELL go through this link and download it and get the access of a full documentation
+
 ### The major modules in this application are,
 Dashboard
 Teacher Management
